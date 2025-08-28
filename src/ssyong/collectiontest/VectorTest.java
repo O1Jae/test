@@ -1,4 +1,4 @@
-package ssyong;
+package ssyong.collectiontest;
 
 import java.util.*;
 public class VectorTest {

@@ -1,4 +1,4 @@
-package ssyong;
+package ssyong.stringapi;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ssyong;
+package ssyong.stringapi;
 import java.util.*;
 public class StringTest4 {
     public static void main(String[] args) {
